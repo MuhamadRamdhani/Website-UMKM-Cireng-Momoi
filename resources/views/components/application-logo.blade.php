@@ -1,0 +1,1 @@
+ <img src="{{url('assets/img/project/logo.jpeg')}}" alt="logo" width="50"> 
